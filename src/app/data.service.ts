@@ -17,7 +17,7 @@ export class DataService {
 
   setData(value) {
     this.data.message = value;
-    this.subject.next({...this.data} as Data);
+    this.subject.next(<Data>{...this.data});
   }
 
   getData() {
