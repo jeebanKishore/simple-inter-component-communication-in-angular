@@ -1,4 +1,6 @@
-# Scc
+# simple inter component communication in angular
+
+See it live on https://jeebankishore.github.io/simple-inter-component-communication-in-angular/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
 
